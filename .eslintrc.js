@@ -22,5 +22,6 @@ module.exports = {
     'react/jsx-one-expression-per-line': 'off',
     camelcase: 'off',
     'no-console': ['error', { allow: ['tron'] }],
+    'react/jsx-props-no-spreading': 'off',
   },
 };
