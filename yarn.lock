@@ -1142,8 +1142,8 @@
 
 "@rocketseat/unform@^1.6.1":
   version "1.6.1"
-  resolved "https://registry.yarnpkg.com/@rocketseat/unform/-/unform-1.6.1.tgz#656dbe438b08ec7eed3190be5918516090f1f9b0"
-  integrity sha512-KStvWyRwjgvXF+gOL8is6AwuGMHwVALRO0IZMPAD0NzYlt41gDstaxRvstzvD+wzvRa8Yhu6ldmWl7ET2sLNCw==
+  resolved "https://registry.npm.taobao.org/@rocketseat/unform/download/@rocketseat/unform-1.6.1.tgz#656dbe438b08ec7eed3190be5918516090f1f9b0"
+  integrity sha1-ZW2+Q4sI7H7tMZC+WRhRYJDx+bA=
 
 "@sheerun/mutationobserver-shim@^0.3.2":
   version "0.3.2"
